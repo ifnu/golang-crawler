@@ -50,7 +50,7 @@ func main() {
 	 	doc, _ := goquery.NewDocumentFromReader(htmlBodyReader) 	
 	 	bodyItemSelection := doc.Find("body").Children()
 	 	size := bodyItemSelection.Size()
-	 	if(size > 0){
+	 	if size > 0 {
 		 	var bodyItems = make([]*goquery.Selection, size, size)
 		 	bodyItems[0] = bodyItemSelection.First()
 		 	for i := 1; i < size; i++ {
