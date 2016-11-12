@@ -29,7 +29,8 @@ func main() {
 	}()
 
 	for uri := range queue {
-		enqueue(uri, queue)
+		avoidErrorUri := uri
+		enqueue(avoidErrorUri, queue)
 	}
 
 }

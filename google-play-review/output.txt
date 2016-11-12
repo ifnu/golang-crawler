@@ -1,0 +1,1331 @@
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/--HBVAewb-Zc/AAAAAAAAAAI/AAAAAAAAABc/-2GpA0JqP1Q/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/--HBVAewb-Zc/AAAAAAAAAAI/AAAAAAAAABc/-2GpA0JqP1Q/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOFSZj1wkTjyCeWAETt43C6q6pfSJT2EF04Y1Hl38DqlCRldGHbn0ZFM6muv-Ur4rvaby-gfKNQJfIv86w">
+      <div class="review-info">
+         <span class="author-name">  Riyadi As-SidQie </span>  <span class="review-date">9 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRlNaajF3a1RqeUNlV0FFVHQ0M0M2cTZwZlNKVDJFRjA0WTFIbDM4RHFsQ1JsZEdIYm4wWkZNNm11di1VcjRydmFieS1nZktOUUpmSXY4Nnc" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Tanya blibli com</span> Kalau alamat saya jauh dan sedangkan domisili saya jauh dari alamat rumah bisa kah kirim langsung ke JNE terdekat d domisili saya yg sekarang..? 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   Hai Riyadi As-SidQie, pengiriman produk akan kami kirimkan ke alamat kamu sesuai dengan alamat pengiriman yang kamu input pada saat melakukan pemesanan di Blibli :) 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-mzwH_MZaX0s/AAAAAAAAAAI/AAAAAAAAfEY/fYuHZ7DvM4E/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-mzwH_MZaX0s/AAAAAAAAAAI/AAAAAAAAfEY/fYuHZ7DvM4E/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOGRdwL5bqv6NRVTQnhyqf4-3sgCx0NjdT1EdAtyZfptXqofginmE8uUz3evOXndkfzNPWhrpN6DWYouKg">
+      <div class="review-info">
+         <span class="author-name">  Al Fadhil mz </span>  <span class="review-date">12 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPR1Jkd0w1YnF2Nk5SVlRRbmh5cWY0LTNzZ0N4ME5qZFQxRWRBdHlaZnB0WHFvZmdpbm1FOHVVejNldk9YbmRrZnpOUFdocnBONkRXWW91S2c" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 2 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 40%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title"></span> payah belanja kerna hanya sedia satu link Bank saja. kita gak punya BCA kenapa gak da bank Danamon yaaa. 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-NrAAt-TG0AI/AAAAAAAAAAI/AAAAAAAAAAA/Tx-6U-Cm1LE/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-NrAAt-TG0AI/AAAAAAAAAAI/AAAAAAAAAAA/Tx-6U-Cm1LE/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOGOcnuSkKP5WbYLlziEwHrLLigvVJxeUJEDVL7SBEYGSYCcUCS3IG4_M8aO4OawrxULZ_Ukrx_oRiwtRQ">
+      <div class="review-info">
+         <span class="author-name">  Nando Nando </span>  <span class="review-date">7 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPR09jbnVTa0tQNVdiWUxsemlFd0hyTExpZ3ZWSnhlVUpFRFZMN1NCRVlHU1lDY1VDUzNJRzRfTThhTzRPYXdyeFVMWl9Va3J4X29SaXd0UlE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Hsjsjsjsjdjdjsppqldhekqksjshxndjdksskskdkdkekmqllwldfdmjdjdjdjdjsamskkdf</span> Jejak-jejak Makassar-Jakarta hxuddjdudhxjddjdjdjjallakzkhfdhfhffhdo alasannya babinkamtibmas djdjjxjxcjcucuureuicduduudufdududuiwiaaisifuuakxjhffehsuajkxchbcbcbxiaiadudjfughdiis 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">10 November 2016</span> </div>
+   Hai Nando, terimkasih sudah berikan feedback baiknya yaa /usman 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-p4Xh0PTWi0s/AAAAAAAAAAI/AAAAAAAAAAA/juj07ti_wmY/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-p4Xh0PTWi0s/AAAAAAAAAAI/AAAAAAAAAAA/juj07ti_wmY/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOHDUo-IOdts4yp_UAbJplsvZ0p6imcfxsqg3Lp9aR989txViUSID72pp99L4wuzW4tKcvn14dzQSqKC5Q">
+      <div class="review-info">
+         <span class="author-name">   </span>  <span class="review-date">11 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPSERVby1JT2R0czR5cF9VQWJKcGxzdlowcDZpbWNmeHNxZzNMcDlhUjk4OXR4VmlVU0lENzJwcDk5TDR3dXpXNHRLY3ZuMTRkelFTcUtDNVE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 2 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 40%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Kecewa</span> Aku shopping kabel hdmi kok 2 hari tdk dikirim kirim ini gimana...tingkatkan pelayanan secepatnya jika ingin maju..!!! 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-k6MiduuUfuQ/AAAAAAAAAAI/AAAAAAAAAAA/4U1PP28-l5U/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-k6MiduuUfuQ/AAAAAAAAAAI/AAAAAAAAAAA/4U1PP28-l5U/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOEtdkyspQWOo8lgHVbJ8qr7MP02tuGazV4hDKCNnwrZ0z5vuryIbE_q5_f8y9VW1TOt-ZF-Aj5mgd700Q">
+      <div class="review-info">
+         <span class="author-name">  Aminah 23 </span>  <span class="review-date">6 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRXRka3lzcFFXT284bGdIVmJKOHFyN01QMDJ0dUdhelY0aERLQ05ud3JaMHo1dnVyeUliRV9xNV9mOHk5VlcxVE90LVpGLUFqNW1nZDcwMFE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 3 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 60%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title"></span> Sayang udah ga free ongkir ke wilayah indonesia tengah. :( 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">7 November 2016</span> </div>
+   Hi saat ini blibi.com mempunyai kebijaksanaan terbaru mengenai free shipping, khususnya untuk wilayah pengiriman Indonesia Timur, informasi lebih detail mengenai syarat dan ketentuan yang berlaku silahkan dapat di cek di link berikut https://www.blibli.com/panduan-belanja#hash-side-pengiriman / Theo 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-kayWr6p5JOc/AAAAAAAAAAI/AAAAAAAAAAA/q4SDOcP_DGQ/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-kayWr6p5JOc/AAAAAAAAAAI/AAAAAAAAAAA/q4SDOcP_DGQ/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOEzZ1nxtsXp6RCAgorHX35neM-PTivZGvNsx7Gbv1dnqb-pFLG0ZZN9rHkoOkY_fGjUcr4iZIqS5MuaDg">
+      <div class="review-info">
+         <span class="author-name">  Orin Yuesnan </span>  <span class="review-date">9 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRXpaMW54dHNYcDZSQ0Fnb3JIWDM1bmVNLVBUaXZaR3ZOc3g3R2J2MWRucWItcEZMRzBaWk45ckhrb09rWV9mR2pVY3I0aVpJcVM1TXVhRGc" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 1 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 20%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title"></span> Kmna point saya?? Blnjanya blom jg sebulan pointnya udah ilang!! 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   Mhn maaf atas ketidaknyamanan yang dialami , boleh di bantu infokan alamat email kamu kepada customer care kami agar dapat di bantu pengecekan kode voucher nya Kak / Thalita 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/-qeak2qLoSoE/AAAAAAAAAAI/AAAAAAAAAAA/ziE02tWdmVI/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/-qeak2qLoSoE/AAAAAAAAAAI/AAAAAAAAAAA/ziE02tWdmVI/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOGDMYWntnk1ii7JGe2Vw44RiYl4v1e9whB1z0aNEGUswGkVxr2wXzzYQVaKBrcF2tiwqIDpddyPk6MFUQ">
+      <div class="review-info">
+         <span class="author-name">  Arif Suryanto </span>  <span class="review-date">7 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPR0RNWVdudG5rMWlpN0pHZTJWdzQ0UmlZbDR2MWU5d2hCMXowYU5FR1Vzd0drVnhyMndYenpZUVZhS0JyY0YydGl3cUlEcGRkeVBrNk1GVVE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Mantap</span> Apl sudah lancar kembali.. belanja lagi.. hehehe.. thx blibli 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">9 November 2016</span> </div>
+   Yeeeaayy Thanks Arif pastinya sudah lancar dong karena kemarin masukannya sangat berarti sekali, nantikan promo menariknya di aplikasi kami ya, ditunggu ordernya :D /Omar 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-k-MvxVLAuUQ/AAAAAAAAAAI/AAAAAAAAAAo/sMs-wyUhGIc/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-k-MvxVLAuUQ/AAAAAAAAAAI/AAAAAAAAAAo/sMs-wyUhGIc/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOHaqgntoI-ZM65IauxE6bSTw5pJ22vWB-4QtxwmPQlhsUnaM6kI7oBR7ftc6FWk1zr8uOljV7swHf8h5A">
+      <div class="review-info">
+         <span class="author-name">  Nanang Daryanto </span>  <span class="review-date">9 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPSGFxZ250b0ktWk02NUlhdXhFNmJTVHc1cEoyMnZXQi00UXR4d21QUWxoc1VuYU02a0k3b0JSN2Z0YzZGV2sxenI4dU9salY3c3dIZjhoNUE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title"></span> Puas selama ini dengan pelayanan bli.bli....walaupun proses dan pengiriman yang agak lama...kalau bisa 3 hari setelah pemesanan bisa sampai tujuan..jangan sampai lebih... 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   Yeeaaayy Thanks Nanang, kami upayakan semaksimal mungkin yaaa untuk pengirimannya dan kami tunggu order nya kembali :) /Omar 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-eTO5u0Im3Rg/AAAAAAAAAAI/AAAAAAAAADU/SlmlQWMIK7c/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-eTO5u0Im3Rg/AAAAAAAAAAI/AAAAAAAAADU/SlmlQWMIK7c/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOETJUbg_SyA_t47L7W_9-JVCwFPw7I--aLc957ER_CNssgVduABnd1I6hC-YNdF4VYkgTAzGYjsvFvwNQ">
+      <div class="review-info">
+         <span class="author-name">  Miftahul Ikhsan </span>  <span class="review-date">11 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRVRKVWJnX1N5QV90NDdMN1dfOS1KVkN3RlB3N0ktLWFMYzk1N0VSX0NOc3NnVmR1QUJuZDFJNmhDLVlOZEY0VllrZ1RBekdZanN2RnZ3TlE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title"></span> Untuk konsumer luar pulau jawa, Blibli pilihan terbaik 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   wuiih, Terima kasih untuk feedbacknya. Kami harap akan menjadi yang terbaik di Indonesia / ody 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-dV-2aoSiAfM/AAAAAAAAAAI/AAAAAAAAAAA/hajDMN7f9hY/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-dV-2aoSiAfM/AAAAAAAAAAI/AAAAAAAAAAA/hajDMN7f9hY/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOHyUYfA0-TFJGcUtAuUeiuQSF2grgr-StIc0oVSqMB26dfk6sLILeD4gDvWpUxj6ZyGtNn_W8Uy06yfLA">
+      <div class="review-info">
+         <span class="author-name">  tafan fadilah </span>  <span class="review-date">10 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPSHlVWWZBMC1URkpHY1V0QXVVZWl1UVNGMmdyZ3ItU3RJYzBvVlNxTUIyNmRmazZzTElMZUQ0Z0R2V3BVeGo2WnlHdE5uX1c4VXkwNnlmTEE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Transaksi nya ga bisa via ATM BCA ya</span> Komplitin dong transaksi nya jgn pake kartu creadit doang 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   bisa kok Kak Tafan, kami bisa memilih metode pembayaraan "atm bca otomatis" :) nanti cara pembayarannya langsung melalui atm / Thalita 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-CdP3bZKeA6g/AAAAAAAAAAI/AAAAAAAAAAA/zTjakr40P3g/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-CdP3bZKeA6g/AAAAAAAAAAI/AAAAAAAAAAA/zTjakr40P3g/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOFz4nQj46Tkr7WzJ16Lg0D4clxSwdqneTUGo4-uP4XUMO76KrZl-dn7GH1gP1_eRWme6sgPJuPGaOTUoA">
+      <div class="review-info">
+         <span class="author-name">  nungky A.W </span>  <span class="review-date">10 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRno0blFqNDZUa3I3V3pKMTZMZzBENGNseFN3ZHFuZVRVR280LXVQNFhVTU83NktyWmwtZG43R0gxZ1AxX2VSV21lNnNnUEp1UEdhT1RVb0E" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title"></span> Selalu puas berbelanja di blibli,pengiriman cepat &amp; gratis biaya ongkos kirim yg menjadi nilai lebihnya. 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">10 November 2016</span> </div>
+   Yiiipppyyy Thanks Nungky atas reviewnya pastinya kami akan terus berkembang menjadi yang terbaik yaaaaa :D /Omar 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-ly-CY18yWVo/AAAAAAAAAAI/AAAAAAAAYxk/gIMwc_Scrc0/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-ly-CY18yWVo/AAAAAAAAAAI/AAAAAAAAYxk/gIMwc_Scrc0/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOERxnm69F5dRxxGCH1TxkaMXUWetSpPhwFM_Lt_sbXSzjbdynZbB7Jp2_Y8tnU3Tzr4Njjdw51gv9XGLg">
+      <div class="review-info">
+         <span class="author-name">  Robert Herman </span>  <span class="review-date">11 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRVJ4bm02OUY1ZFJ4eEdDSDFUeGthTVhVV2V0U3BQaHdGTV9MdF9zYlhTempiZHluWmJCN0pwMl9ZOHRuVTNUenI0TmpqZHc1MWd2OVhHTGc" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Pengalaman Menyenangkan</span> Mencoba dan sangat lancar respon aplikasi nya.. Semoga makin banyak promo dan keuntungan lainnya 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   Wihh, terima kasih Robert untuk ulasan dan ratingnya. Kami tunggu pesanannya / ody 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-idbmY7QsWwA/AAAAAAAAAAI/AAAAAAAAAAA/IAW_guoP6NA/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-idbmY7QsWwA/AAAAAAAAAAI/AAAAAAAAAAA/IAW_guoP6NA/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOE52yLyh8QtX7Uo7kmyjDCYEfWDvDUAxOOZEhSnfbD3BTn1R17sVPOlu_Qgby2gEBJUhhwG5vEb0y9QLQ">
+      <div class="review-info">
+         <span class="author-name">   </span>  <span class="review-date">7 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRTUyeUx5aDhRdFg3VW83a215akRDWUVmV0R2RFVBeE9PWkVoU25mYkQzQlRuMVIxN3NWUE9sdV9RZ2J5MmdFQkpVaGh3RzV2RWIweTlRTFE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title"></span> Bli2 oke punya pengirimannya ga lama..barangnya harganya terjangkau 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">10 November 2016</span> </div>
+   Hai terimakasih banyak untuk feedback baiknya dan ditunggu ordernya yaa :) /usman 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-_JnUAULOXAo/AAAAAAAAAAI/AAAAAAAAAAA/4blJsGy7k7Q/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-_JnUAULOXAo/AAAAAAAAAAI/AAAAAAAAAAA/4blJsGy7k7Q/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOFDyw4EnWeIrkUBbIv68stAuHXWeoCWstxsWQCrrE_O_ANd1AZZdTzOTrjVzee3kKgCGAc0xHa6AwwVuA">
+      <div class="review-info">
+         <span class="author-name">  fitrotul wardah </span>  <span class="review-date">10 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRkR5dzRFbldlSXJrVUJiSXY2OHN0QXVIWFdlb0NXc3R4c1dRQ3JyRV9PX0FOZDFBWlpkVHpPVHJqVnplZTNrS2dDR0FjMHhIYTZBd3dWdUE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 1 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 20%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">vocher lotteria</span> Saya pesan vocher lotteria, status terkirim padahal saya belum menerima SMS atau email, trus gimana ini? 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   Hi Fitrotul , untuk hal tersebut kami masih membutuhkan beberapa data atas claim pelaporannya ya, silahkan dapat hubungi kami di nomor customer service 08041871871 atau via email ke  customer.care@blibli.com, semoga produknya segera dapat di terima :)  / Theo 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-WXxK1IOJLhc/AAAAAAAAAAI/AAAAAAAAAAA/brSU90TWySY/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-WXxK1IOJLhc/AAAAAAAAAAI/AAAAAAAAAAA/brSU90TWySY/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOFR1XK-49DNX9O6TWMU-AR80kl1uuOevKHwuXR5o_grEWKXEQzS7lu_0H97BZVDhDOHMaC1wlmxju_UJg">
+      <div class="review-info">
+         <span class="author-name">  nada Rasikhah </span>  <span class="review-date">11 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRlIxWEstNDlETlg5TzZUV01VLUFSODBrbDF1dU9ldktId3VYUjVvX2dyRVdLWEVRelM3bHVfMEg5N0JaVkRoRE9ITWFDMXdsbXhqdV9VSmc" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 3 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 60%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title"></span> Katanya gratis ongkos kirim keseluruh indonesia...tapi kenapa khusus wilayah nusa tenggara tepat nya di papua kab.merauke dikenakan biaya ongkir...dan lgi kata nya mw tanggung ongkir 200..sdgkn ongkir di kab.merauke 114.000 1kg..biaya 200.000 itu kan klw sy hitung itu kena hampir mw 2 kg..tapi kenapa barang sy pesan blom sampai 2 kg masih dikenakan ongkos kirim..blibli nhe tidak profesional..bikin kecewa adja..pdahal sy sdh langganan lama..n dahk sering belanja d blibli 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-GH6c_WtN8zs/AAAAAAAAAAI/AAAAAAAAASo/DVu_4RkghdA/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-GH6c_WtN8zs/AAAAAAAAAAI/AAAAAAAAASo/DVu_4RkghdA/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOFhH7omP5bOsdwLkmySVKrBZHvkFBQLRqYhqcFPn9hi2arYcpcT-KGLaWUCVog1jwC0um9sDNODqBiDKg">
+      <div class="review-info">
+         <span class="author-name">  Artha Mulya </span>  <span class="review-date">11 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRmhIN29tUDViT3Nkd0xrbXlTVktyQlpIdmtGQlFMUnFZaHFjRlBuOWhpMmFyWWNwY1QtS0dMYVdVQ1ZvZzFqd0MwdW05c0ROT0RxQmlES2c" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title"></span> Saya sangat puas dengan pelayanan di blibli. Namun kenapa tidak menjual mic Condensor buat studio rekaman?? 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   Hai Artha, untuk micnya ada kok. bisa cek pada link https://www.blibli.com/audio-technica-at2035-mikrofon-MTA.0592155.htm :) / ody 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/--bHcibBdxjA/AAAAAAAAAAI/AAAAAAAAACs/LZhvHmmfx70/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/--bHcibBdxjA/AAAAAAAAAAI/AAAAAAAAACs/LZhvHmmfx70/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOF-6zd2zCnKXmvV4E2Eiz2NiZ6AmGiF5hp0N47kQ2ZK6X9Jk830cxM8x-v0py4rKCp9ZRdopQyd3OAlqQ">
+      <div class="review-info">
+         <span class="author-name">  kurnia ilahi </span>  <span class="review-date">10 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRi02emQyekNuS1htdlY0RTJFaXoyTmlaNkFtR2lGNWhwME40N2tRMlpLNlg5Sms4MzBjeE04eC12MHB5NHJLQ3A5WlJkb3BReWQzT0FscVE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Top bgt</span> Os no tipu2 wkkwwkkw,gak ada ongkiirr,,hhehee,,,bikin duit cepet abis soale blanja meluluu hehehe,,maju trs blibllliiiiii😍😍😍 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   Hai Kak Kurnia, saat ini kami menyediakan gratis pengiriman keseluruh indonesia kok hanya wilayah pengiriman indonesia timur biaya kirim maksimal yang kami tangung 200rb dengan minimal belanja 200rb :) / Thalita 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/-krP0qNrcPfg/AAAAAAAAAAI/AAAAAAAAA2g/dQY2OrlH9Mo/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/-krP0qNrcPfg/AAAAAAAAAAI/AAAAAAAAA2g/dQY2OrlH9Mo/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOEXlUPB0fLIQ7bCfVwq6XCTboRLn0pnco8PL-1xkAYwIdqT3gXhrgYPrpr9rjM7mmNlF5Tab9Npg9JwFA">
+      <div class="review-info">
+         <span class="author-name">  Prayogo Tulus </span>  <span class="review-date">12 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRVhsVVBCMGZMSVE3YkNmVndxNlhDVGJvUkxuMHBuY284UEwtMXhrQVl3SWRxVDNnWGhyZ1lQcnByOXJqTTdtbU5sRjVUYWI5TnBnOUp3RkE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 4 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 80%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">👍👍👍👍</span> metode pembayarannya dikomplitin seperti di web , biar enak 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">7 November 2016</span> </div>
+   Hi Prayogo, Blibli.com tersedia banyak metode pembayarannya loh, seperti pembayaran via Indomaret, Kantor Pos, Bayar di tempat, Transfer, Kartu kredit, dan masih banyak lagi, jadi kami tidak mengutamakan di salah satu pembayaran saja ya, yuks belanja di blibli.com :) / Theo 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-tDqglV8g8bY/AAAAAAAAAAI/AAAAAAAAAAA/VNxBIwZx_Zs/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-tDqglV8g8bY/AAAAAAAAAAI/AAAAAAAAAAA/VNxBIwZx_Zs/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOFICu55uJpTeqgL2By7Ey81R8JUCxSHwqkHuclxEXMIc8zkCPjmd4MrZOnX_smVCWz3ro63_O3GtNKKBQ">
+      <div class="review-info">
+         <span class="author-name">  siti khotimah </span>  <span class="review-date">6 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRklDdTU1dUpwVGVxZ0wyQnk3RXk4MVI4SlVDeFNId3FrSHVjbHhFWE1JYzh6a0NQam1kNE1yWk9uWF9zbVZDV3ozcm82M19PM0d0TktLQlE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Like it</span> Make feel good.  Git easy shopping.  Thanks blibli 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">7 November 2016</span> </div>
+   Hi Khotimah, thank you for your feedback. We're always looking for a customer satisfied, happy shopping :) / Theo 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-Dvl5qzOCqOo/AAAAAAAAAAI/AAAAAAAAABQ/Xdv8kTRIRhw/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-Dvl5qzOCqOo/AAAAAAAAAAI/AAAAAAAAABQ/Xdv8kTRIRhw/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOGHBBYLRRYoq9tDVQBNlWGfdLP7cfY3RPBbVMaSUGo-7o7Uq1rzOF7zTAYUig8BsFFkEiOvGVWYklSWVw">
+      <div class="review-info">
+         <span class="author-name">  widia eko </span>  <span class="review-date">10 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPR0hCQllMUlJZb3E5dERWUUJObFdHZmRMUDdjZlkzUlBCYlZNYVNVR28tN283VXExcnpPRjd6VEFZVWlnOEJzRkZrRWlPdkdWV1lrbFNXVnc" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 4 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 80%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Kasih bintang 4 kalo bagus ditambah lagi...</span> Kalo mau cicil tp g punya kartu kredit bisa gak ya???? 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   Hai Widia okee, bisa kok Kak namun meminjam kartu kredit saudara atau temannya, atau membuat dulu ke pihak Bank :) /Rio 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-wT8DW9zezfE/AAAAAAAAAAI/AAAAAAAAAAA/dSzr9Gm6t48/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-wT8DW9zezfE/AAAAAAAAAAI/AAAAAAAAAAA/dSzr9Gm6t48/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOEG96QQ3i79ZQVgXZn0-JvbaAd6sUFKWPqy3iCzUS5OSPGisjpE4TNhTWgs4lSsVK_v6Qp4tgAUbS2KXg">
+      <div class="review-info">
+         <span class="author-name">  Niamettakyna Carmelia </span>  <span class="review-date">10 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRUc5NlFRM2k3OVpRVmdYWm4wLUp2YmFBZDZzVUZLV1BxeTNpQ3pVUzVPU1BHaXNqcEU0VE5oVFdnczRsU3NWS192NlFwNHRnQVViUzJLWGc" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 4 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 80%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Ok dan menarik</span> Sejauh ini baik pelayanan dan pengiriman top dah, semoga Blibli makin maju 😊👍👍 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   terimakasih Niamettakyna atas review Kamu :) senang bisa membantu melakukan pemesanan secara online, yuk jangan lupa berbagi pengalaman belanja kamu ini ke saudara atau krabat terdekat ya agar yg lain bisa merasakan sensasi belanja online yang menyenangkan/ Thalita 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/-mTq7xid7TFY/AAAAAAAAAAI/AAAAAAAAAAA/6ISbxzDCeyM/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/-mTq7xid7TFY/AAAAAAAAAAI/AAAAAAAAAAA/6ISbxzDCeyM/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOFxqR8fT17v1_icOqMyUjytEHuy_RXTmki2HKk-xgmECqaH1WPG7hV6Cs7ryVnI8jGIiJ5o40W_Gc4zgw">
+      <div class="review-info">
+         <span class="author-name">  Agung Kusuma Allfonsius Sitepu </span>  <span class="review-date">10 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRnhxUjhmVDE3djFfaWNPcU15VWp5dEVIdXlfUlhUbWtpMkhLay14Z21FQ3FhSDFXUEc3aFY2Q3M3cnlWbkk4akdJaUo1bzQwV19HYzR6Z3c" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Agung</span> Ongkos pengirimanya gratis apa kagak y bls y klw gak di bls gue tarik bintang nya 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   saat ini kami menyediakan gratis pengiriman keseluruh indonesia kok hanya wilayah pengiriman indonesia timur biaya kirim maksimal yang kami tangung 200rb dengan minimal belanja 200rb :) / Thalita 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-du3m0TMvjHk/AAAAAAAAAAI/AAAAAAAAE6s/V_FPuUC_Lv8/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-du3m0TMvjHk/AAAAAAAAAAI/AAAAAAAAE6s/V_FPuUC_Lv8/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOFJEcPYvh_7DY-S_nvqKv2DISOronPCzeaAT4Z_sjlZkhiOzm-j13pVgvHgS_Gbvm-p6FRBlMHfgZnenA">
+      <div class="review-info">
+         <span class="author-name">  Rivardi Ruspandi </span>  <span class="review-date">6 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRkpFY1BZdmhfN0RZLVNfbnZxS3YyRElTT3JvblBDemVhQVQ0Wl9zamxaa2hpT3ptLWoxM3BWZ3ZIZ1NfR2J2bS1wNkZSQmxNSGZnWm5lbkE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title"></span> Tidak bisa dibuka appnya. Diperbaiki secepatnya 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">7 November 2016</span> </div>
+   Mohon maaf atas kendala yg di temukan saat menggunakan Blibli Apps, silahkan di pastikan kembali sinyal nya stabil, dan Anda juga dapat clear cache pada menu setting HP Anda, namun feed back nya akan tetap kami bantu sampaikan ke rekan IT kami ya, di tunggu pengalaman seru nya di Blibli.com :) / Theo 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-iN2QJvKdZ4g/AAAAAAAAAAI/AAAAAAAAAAA/GS166zyaQz8/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-iN2QJvKdZ4g/AAAAAAAAAAI/AAAAAAAAAAA/GS166zyaQz8/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOGbILkoBE8BX3Zf8XTZkxWtwwzAI9Yx-684RHYhjnZ9MqmbA6TIp_iG6dhVasJHCrAwVAGppjWX8BV_9Q">
+      <div class="review-info">
+         <span class="author-name">  Ridho Avicenna </span>  <span class="review-date">12 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPR2JJTGtvQkU4QlgzWmY4WFRaa3hXdHd3ekFJOVl4LTY4NFJIWWhqblo5TXFtYkE2VElwX2lHNmRoVmFzSkhDckF3VkFHcHBqV1g4QlZfOVE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Recomended</span> Terpercaya, cuma akhir2 ini ampun agak lambat pengirimannya. Semoga menjadi perhatian yaa.. 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-zPqIaeTb1Vk/AAAAAAAAAAI/AAAAAAAAABE/gbYEm4qY3IU/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-zPqIaeTb1Vk/AAAAAAAAAAI/AAAAAAAAABE/gbYEm4qY3IU/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOGyclNYVpTmX_gO6sSU-x2s7fzBVl0a-O6fuE-7YOD6jcXJBzIruVJS2hGDWoGnji-3gnUAlL88ChRJbw">
+      <div class="review-info">
+         <span class="author-name">  Tanti Krisnawardhani </span>  <span class="review-date">11 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPR3ljbE5ZVnBUbVhfZ082c1NVLXgyczdmekJWbDBhLU82ZnVFLTdZT0Q2amNYSkJ6SXJ1VkpTMmhHRFdvR25qaS0zZ25VQWxMODhDaFJKYnc" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Reccomended</span> Selalu beli disini,ga pernah kecewa... sangat membantu cicilan 0% nya 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   tentu Kakak Tanti, kami senang mempunyai customer setia seperti kamu / Thalita 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-Tc-J680ddsA/AAAAAAAAAAI/AAAAAAAAAAA/KxXKNrI-YMw/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-Tc-J680ddsA/AAAAAAAAAAI/AAAAAAAAAAA/KxXKNrI-YMw/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOHxPDYJfjZzF02EnbpXiIaTnjjMomgTBp8sKmpu3rl13VMKCjlJGs_vRdNuqLnLPncuYriEzgnnD4lw5Q">
+      <div class="review-info">
+         <span class="author-name">  Wawan Juliyanto </span>  <span class="review-date">10 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPSHhQRFlKZmpaekYwMkVuYnBYaUlhVG5qak1vbWdUQnA4c0ttcHUzcmwxM1ZNS0NqbEpHc192UmROdXFMbkxQbmN1WXJpRXpnbm5ENGx3NVE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Aku nanya ini</span> Maaf saya pengin beli jaket tapi ongkir ke kawunganten,cilacap,jawa tengah berapa yaa??? 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   Hai kak Wawan no ongkir kak alias gratiiiiiisss, yuk yuk order. pastikan sudah mendaftar menjadi member kami sebelum order. Kami tunggu pesanannya ;) /Rio 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/-Mi5cMefbwYg/AAAAAAAAAAI/AAAAAAAAADw/oFNnFbIszeU/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/-Mi5cMefbwYg/AAAAAAAAAAI/AAAAAAAAADw/oFNnFbIszeU/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOFKI8aW06E-NY3Sj43g8-EhFfYGMX9KEgnEOGbPQHgO-jTMCQHCjwEWx68irBYChIowSqVhil6nWbaW6Q">
+      <div class="review-info">
+         <span class="author-name">  anto ajrin </span>  <span class="review-date">11 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRktJOGFXMDZFLU5ZM1NqNDNnOC1FaEZmWUdNWDlLRWduRU9HYlBRSGdPLWpUTUNRSENqd0VXeDY4aXJCWUNoSW93U3FWaGlsNm5XYmFXNlE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 4 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 80%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Puas</span> Senangnya beli online di blibli.. produknya lumayan lengkap, metode pembayarannya beragam 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   wohoo, Mantap. Ajak yang lain berbelanja juga dong :) / ody 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/-Sdi98Cmp1AM/AAAAAAAAAAI/AAAAAAAAADk/mNPAsgCTfUU/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/-Sdi98Cmp1AM/AAAAAAAAAAI/AAAAAAAAADk/mNPAsgCTfUU/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOHjRaRFj0FyjVRdeAIbNBUZnTOPFCGeVnBnHIWRxGQo-H5Cmrcq9VrtZEv-yOL2ItlKKbJu_m-9gEZ72A">
+      <div class="review-info">
+         <span class="author-name">  tori satori </span>  <span class="review-date">6 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPSGpSYVJGajBGeWpWUmRlQUliTkJVWm5UT1BGQ0dlVm5CbkhJV1J4R1FvLUg1Q21yY3E5VnJ0WkV2LXlPTDJJdGxLS2JKdV9tLTlnRVo3MkE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">mudah</span> terima kasih sudah mempermudah customer...keep the good work 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">7 November 2016</span> </div>
+   Hai tori satori, terimakasih atas review saran dan ratingnya, kami akan terus melakukan improve agar belanja di Blibli.com lebih menyenangkan. Happy Shopping :) 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-0xFf40ekHDE/AAAAAAAAAAI/AAAAAAAAAAA/SQP2riZ2AwY/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-0xFf40ekHDE/AAAAAAAAAAI/AAAAAAAAAAA/SQP2riZ2AwY/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOE26_B4PSPZmo0W0JTglVY7XXsi2ap-HlnBUv3u6w9S4SoA95urzTVWNj60bUPi6bIGzwLbI8oWQAZzaw">
+      <div class="review-info">
+         <span class="author-name">  Ghesia 83 </span>  <span class="review-date">10 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRTI2X0I0UFNQWm1vMFcwSlRnbFZZN1hYc2kyYXAtSGxuQlV2M3U2dzlTNFNvQTk1dXJ6VFZXTmo2MGJVUGk2YklHendMYkk4b1dRQVp6YXc" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 4 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 80%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Coba belanja dulu klo bgs baru ditambah bintangx</span> Ga pake ribet ya 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">10 November 2016</span> </div>
+   Siiiaapp Ghesia, kami tunggu tambahan bintangnya yaaa :D /Omar 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/-sVaGSZ5MuSY/AAAAAAAAAAI/AAAAAAAAAAs/ATYso6Py8Ao/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/-sVaGSZ5MuSY/AAAAAAAAAAI/AAAAAAAAAAs/ATYso6Py8Ao/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOFJfApBDoY96GWjivSbsk77mTRDehQx0KbAA4MSlLfwiTVI0co5axcPBYJsFIS1i9TvIQwXP06yN_Sk7Q">
+      <div class="review-info">
+         <span class="author-name">  jali saputra saputra </span>  <span class="review-date">9 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRkpmQXBCRG9ZOTZHV2ppdlNic2s3N21UUkRlaFF4MEtiQUE0TVNsTGZ3aVRWSTBjbzVheGNQQllKc0ZJUzFpOVR2SVF3WFAwNnlOX1NrN1E" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title"></span> Testi Dlu jajan disini,mudahan aj g mengecewakn 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   Semoga tidak mengecewakan ya Kak Jali, kami juga berharap hal yang sama. Oya, jangan lupa ajak teman dan keluarga untuk order sebanyak -banyaknya :D / Yoan 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-awPRavN49pI/AAAAAAAAAAI/AAAAAAAAAAA/I2cQq71aDrE/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-awPRavN49pI/AAAAAAAAAAI/AAAAAAAAAAA/I2cQq71aDrE/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOF8wzy_BAdKRQKDHt1XjFFrrmBxkGenTUonnhX2wRETHoQjecnX2K6lgIYPvMRAd4e8NGTfOmrPTYw2PQ">
+      <div class="review-info">
+         <span class="author-name">  Wahyono Galih </span>  <span class="review-date">12 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRjh3enlfQkFkS1JRS0RIdDFYakZGcnJtQnhrR2VuVFVvbm5oWDJ3UkVUSG9RamVjblgySzZsZ0lZUHZNUkFkNGU4TkdUZk9tclBUWXcyUFE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 3 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 60%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Baru pertama</span> Dicoba dulu kalo pengiriman lancar yah ntar ditambah bintangnya 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-bzdWfwHAlp0/AAAAAAAAAAI/AAAAAAAAAAA/v_ZGDVxinWI/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-bzdWfwHAlp0/AAAAAAAAAAI/AAAAAAAAAAA/v_ZGDVxinWI/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOG0zNQ7yiY_-QDpUYsWQ8DqcU7QLx0UC6EveiTR0Aq-NhJ3pwow_2d_Evrr1EruEQrzRffJIfcbMf2r5g">
+      <div class="review-info">
+         <span class="author-name">  Rizal a </span>  <span class="review-date">12 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRzB6TlE3eWlZXy1RRHBVWXNXUThEcWNVN1FMeDBVQzZFdmVpVFIwQXEtTmhKM3B3b3dfMmRfRXZycjFFcnVFUXJ6UmZmSklmY2JNZjJyNWc" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 3 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 60%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title"></span> Saya mau mencoba berbelanja online dan saya memilih untuk berbelanja di blibli semoga tidak mengecewakan. Semangat blibli 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-I-3QYYzddHg/AAAAAAAAAAI/AAAAAAAAAAA/Yto8bVnvqcE/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh4.googleusercontent.com/-I-3QYYzddHg/AAAAAAAAAAI/AAAAAAAAAAA/Yto8bVnvqcE/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOG1D4X_7LbRi6SKfi1X8KKWA56XnF6rxuGgel466iHs74eG989kl3i0tfhuDUByLZoFx520rDttFjY0Yw">
+      <div class="review-info">
+         <span class="author-name">   </span>  <span class="review-date">7 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRzFENFhfN0xiUmk2U0tmaTFYOEtLV0E1NlhuRjZyeHVHZ2VsNDY2aUhzNzRlRzk4OWtsM2kwdGZodURVQnlMWm9GeDUyMHJEdHRGalkwWXc" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 1 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 20%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Makin gak jelas..</span> pembaruan terus kawan..mana ekstra poin everyday yg kamu janjikan???? 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">7 November 2016</span> </div>
+   Hai, untuk promo Extra poin silakan cek pada web kami https://www.blibli.com/promosi/extra-point-everyday?utm_source=female-newsletter-051116&amp;utm_campaign=extra-point&amp;utm_medium=email&amp;utm_content=bottom semoga membantu :) / ody 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-08B2sjau4DE/AAAAAAAAAAI/AAAAAAAAAAA/IIHWN0E7St4/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-08B2sjau4DE/AAAAAAAAAAI/AAAAAAAAAAA/IIHWN0E7St4/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOGTtzdanB_D7ChHBWOMAFmH4_jBrAVpnGpJa8MlKQSZVkLksFH4TNuuWCk2kcqmRFvcs1vYZuW1AEo47g">
+      <div class="review-info">
+         <span class="author-name">  Yudi Ariyanto </span>  <span class="review-date">9 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPR1R0emRhbkJfRDdDaEhCV09NQUZtSDRfakJyQVZwbkdwSmE4TWxLUVNaVmtMa3NGSDRUTnV1V0NrMmtjcW1SRnZjczF2WVp1VzFBRW80N2c" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Saya suka</span> Keren akses mudah gratis ongkos kirim. Banyak produk baru.. 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   senang sekali melihat review Yudi berbelanja di Blibli.com :) yuk sharing juga pengalaman berbelanja kamu kepada saudara dan krabat terdekat agar yg lain dpt merasakan sensasi belanja yang menyenangkan / Thalita 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-tyilFsuVBA8/AAAAAAAAAAI/AAAAAAAAAAA/Te2MJiXi-0M/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-tyilFsuVBA8/AAAAAAAAAAI/AAAAAAAAAAA/Te2MJiXi-0M/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOElJ3UoNabSt92WDyMOUBR8xGVn_P0stmx2osZ3359yVwlPwQm0fUePmpVmX854yrya8FqjDVaecDVynw">
+      <div class="review-info">
+         <span class="author-name">   </span>  <span class="review-date">8 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRWxKM1VvTmFiU3Q5MldEeU1PVUJSOHhHVm5fUDBzdG14Mm9zWjMzNTl5VndsUHdRbTBmVWVQbXBWbVg4NTR5cnlhOEZxakRWYWVjRFZ5bnc" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 4 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 80%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Suka belanja sama blibli karna free ongkir</span> Sayang barang nya mahal mahal 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">10 November 2016</span> </div>
+   Hallo. Terima kasih untuk feedbacknya. Kami banyak promonya juga kok :D / ody 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/-mW2VdZBJG-4/AAAAAAAAAAI/AAAAAAAAAAA/iuJ9rSgXjCw/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh5.googleusercontent.com/-mW2VdZBJG-4/AAAAAAAAAAI/AAAAAAAAAAA/iuJ9rSgXjCw/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOFeD6HUi9YTJjPT2PemmB8EWlI2IonA56IOZTXMmp0zj2gNN0GAh1nFz6pDtZETU4-9y3dL05axfzBP5w">
+      <div class="review-info">
+         <span class="author-name">  syarifah maimanah </span>  <span class="review-date">7 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRmVENkhVaTlZVEpqUFQyUGVtbUI4RVdsSTJJb25BNTZJT1pUWE1tcDB6ajJnTk4wR0FoMW5GejZwRHRaRVRVNC05eTNkTDA1YXhmekJQNXc" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Bagus</span> Ongkir gratis, cepat, banyak diskonnya 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">7 November 2016</span> </div>
+   Terima kasih atas rating nya, yuks belanja di blibli.com :) / Theo 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-Z17wjWfikKo/AAAAAAAAAAI/AAAAAAAAuJY/ynxFygt8Sbo/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-Z17wjWfikKo/AAAAAAAAAAI/AAAAAAAAuJY/ynxFygt8Sbo/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOHafwRFkkrMNzNpElXZVoS-djwFDKtXeY9hPrT7Qd-u3c5zyAsomTBHGC_2YGhqWw7oC52A4IsYgaEfZw">
+      <div class="review-info">
+         <span class="author-name">  andreas joe-pinx </span>  <span class="review-date">9 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPSGFmd1JGa2tyTU56TnBFbFhaVm9TLWRqd0ZES3RYZVk5aFByVDdRZC11M2M1enlBc29tVEJIR0NfMllHaHFXdzdvQzUyQTRJc1lnYUVmWnc" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Mantab!!</span> Barang gk pernah mengecewakan,udh beberapa kali beli dan memuaskan.thx blibli 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">11 November 2016</span> </div>
+   Mantaaabbb, kami tunggu ordernya yaaa dan siap siap menikmati promo menariknya di aplikasi kami :D /Omar 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-3fH_H8oCqRk/AAAAAAAAAAI/AAAAAAAAABA/J03j6HbdXA0/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-3fH_H8oCqRk/AAAAAAAAAAI/AAAAAAAAABA/J03j6HbdXA0/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOFwqvLfsHr7JsyvAkq_HF5D7i_AznLzY5eznqt1k9fob7LieNU92ot-dacpg8wbS-VA8FrAVjsMBnIINg">
+      <div class="review-info">
+         <span class="author-name">  ericlim Sihotang </span>  <span class="review-date">7 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRndxdkxmc0hyN0pzeXZBa3FfSEY1RDdpX0F6bkx6WTVlem5xdDFrOWZvYjdMaWVOVTkyb3QtZGFjcGc4d2JTLVZBOEZyQVZqc01CbklJTmc" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Free Shiping</span> Kalau ngirim tv luar jabodetabek free shiping juga lah biar keren.... 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">7 November 2016</span> </div>
+   Hai Ericlim, Kami infokan untuk pengiriman TV luar Jabodetabek dikenakan ongkos pengiriman dikarenakan butuh penanganan khusus. Silakan kunjungi web kami untuk informasi selengkapnya https://www.blibli.com/panduan-belanja#hash-side-pengiriman :) / ody 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-InbAi9FXAKQ/AAAAAAAAAAI/AAAAAAAAABQ/5cKtjaUMzCk/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh6.googleusercontent.com/-InbAi9FXAKQ/AAAAAAAAAAI/AAAAAAAAABQ/5cKtjaUMzCk/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOGTlLZBqTEAEQt42jG3IIGtz2gdFmM4F2RxDYfvpcsScXPAOxoTcSbcm8PGZaoRnChh9Iy0s7ivYrtVGA">
+      <div class="review-info">
+         <span class="author-name">  NUR FAJRIYANTI </span>  <span class="review-date">7 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPR1RsTFpCcVRFQUVRdDQyakczSUlHdHoyZ2RGbU00RjJSeERZZnZwY3NTY1hQQU94b1RjU2JjbThQR1phb1JuQ2hoOUl5MHM3aXZZcnRWR0E" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Aplikasi semakin baik</span> sudah gak nemu bug lg.paling telkomse lagi lemot. 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">7 November 2016</span> </div>
+   Terima kasih Nur untuk informasinya dan feedbacknya. 
+   happy shopping :) / ody 
+   <div class="box-arrow-up"></div>
+</div>
+<div class="single-review" tabindex="0">
+   <span> <span class="responsive-img-ldpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-1Vzy1dySz1E/AAAAAAAAAAI/AAAAAAAAAMM/Qmpg4DIHCy8/w48-c-h48/photo.jpg)"></span> </span> <span class="responsive-img-hdpi"> <span class="responsive-img author-image" style="background-image:url(https://lh3.googleusercontent.com/-1Vzy1dySz1E/AAAAAAAAAAI/AAAAAAAAAMM/Qmpg4DIHCy8/w96-c-h96/photo.jpg)"></span> </span> </span>  
+   <div class="review-header" data-expand-target="" data-reviewid="gp:AOqpTOEevSLixQF1RUnpUzxZAZm4cxPj7vT_WU1c0QsYtaEJbVXjhqALt-JrGxpR54SR86R8PqChUFdR41EMuQ">
+      <div class="review-info">
+         <span class="author-name">  Agung Production Studio </span>  <span class="review-date">6 November 2016</span> <a class="reviews-permalink" href="/store/apps/details?id=blibli.mobile.commerce&amp;reviewId=Z3A6QU9xcFRPRWV2U0xpeFFGMVJVbnBVenhaQVptNGN4UGo3dlRfV1UxYzBRc1l0YUVKYlZYamhxQUx0LUpyR3hwUjU0U1I4NlI4UHFDaFVGZFI0MUVNdVE" title="Tautan ke ulasan ini"></a> 
+         <div class="review-source" style="display:none"></div>
+         <div class="review-info-star-rating">
+            <div class="tiny-star star-rating-non-editable-container" aria-label="Nilai 5 bintang dari lima bintang">
+               <div class="current-rating" jsname="jIIjq" style="width: 100%;"></div>
+            </div>
+         </div>
+      </div>
+      <div class="rate-review-wrapper">
+         <div class="play-button icon-button small rate-review" title="Spam" data-rating="SPAM">
+            <div class="icon spam-flag"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Berguna" data-rating="HELPFUL">
+            <div class="icon thumbs-up"></div>
+         </div>
+         <div class="play-button icon-button small rate-review" title="Tidak membantu" data-rating="UNHELPFUL">
+            <div class="icon thumbs-down"></div>
+         </div>
+      </div>
+   </div>
+   <div class="review-body with-review-wrapper">
+      <span class="review-title">Belanja lebih mudah</span> Free ongkirnya menyenangkan 
+      <div class="review-link" style="display:none"> <a class="id-no-nav play-button tiny" href="#" target="_blank">Ulasan Lengkap</a> </div>
+   </div>
+</div>
+<div class="developer-reply">
+   <div> <span class="author-name"></span> <span class="review-date">7 November 2016</span> </div>
+   Yeaahh, terima kasih atas review dan bintang 5 nya, Kami tunggu pengalaman berbelanja menyenangkan Anda selanjutnya di Blibli.com. Happy Shopping :)  / Theo 
+   <div class="box-arrow-up"></div>
+</div>
