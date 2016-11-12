@@ -50,38 +50,40 @@ func main() {
 	 	doc, _ := goquery.NewDocumentFromReader(htmlBodyReader) 	
 	 	bodyItemSelection := doc.Find("body").Children()
 	 	size := bodyItemSelection.Size()
-	 	var bodyItems = make([]*goquery.Selection, size, size)
-	 	bodyItems[0] = bodyItemSelection.First()
-	 	for i := 1; i < size; i++ {
-	 		bodyItemSelection = bodyItemSelection.Next()
-	 		bodyItems[i] = bodyItemSelection.First()
+	 	if(size > 0){
+		 	var bodyItems = make([]*goquery.Selection, size, size)
+		 	bodyItems[0] = bodyItemSelection.First()
+		 	for i := 1; i < size; i++ {
+		 		bodyItemSelection = bodyItemSelection.Next()
+		 		bodyItems[i] = bodyItemSelection.First()
 
-	 	}
+		 	}
 
-	 	//write to file
-	 	
-	 	nextClassName := ""
-	 	for i, bodyItem := range bodyItems {
-	 		className, _ := bodyItem.Attr("class")
-	 		nextIndex := i + 1
-	 		if i < size - 1 {
-	 			nextClassName, _ = bodyItems[nextIndex].Attr("class")
-	 		} else {
-	 			nextClassName = ""
-	 		}
-	 		if className == "single-review" && nextClassName == "developer-reply" {
-	 			reviewFound++
-	 			line := parseReview(bodyItem) + parseDeveloperReply(bodyItems[nextIndex])
-	 			file.WriteString(line + "\n")
-	 			file.Sync()
-		 		fmt.Println(strconv.Itoa(reviewFound) + ". " + line)
-	 		} else if className == "single-review" && nextClassName != "developer-reply"{
-	 			reviewFound++
-	 			line := parseReview(bodyItem) + "||"
-	 			file.WriteString(line + "\n")
-	 			file.Sync()
-		 		fmt.Println(strconv.Itoa(reviewFound) + ". " + line)
-	 		} 
+		 	//write to file
+		 	
+		 	nextClassName := ""
+		 	for i, bodyItem := range bodyItems {
+		 		className, _ := bodyItem.Attr("class")
+		 		nextIndex := i + 1
+		 		if i < size - 1 {
+		 			nextClassName, _ = bodyItems[nextIndex].Attr("class")
+		 		} else {
+		 			nextClassName = ""
+		 		}
+		 		if className == "single-review" && nextClassName == "developer-reply" {
+		 			reviewFound++
+		 			line := parseReview(bodyItem) + parseDeveloperReply(bodyItems[nextIndex])
+		 			file.WriteString(line + "\n")
+		 			file.Sync()
+			 		fmt.Println(strconv.Itoa(reviewFound) + ". " + line)
+		 		} else if className == "single-review" && nextClassName != "developer-reply"{
+		 			reviewFound++
+		 			line := parseReview(bodyItem) + "||"
+		 			file.WriteString(line + "\n")
+		 			file.Sync()
+			 		fmt.Println(strconv.Itoa(reviewFound) + ". " + line)
+		 		} 
+		 	}
 	 	}
  	}
 }
